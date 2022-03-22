@@ -1,0 +1,1 @@
+# mapstruct-presence-check-error
